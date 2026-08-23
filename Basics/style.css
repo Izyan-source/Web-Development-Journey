@@ -1,0 +1,20 @@
+h1{
+    color: rgb(140, 40, 40);
+}
+/*inline style is used to apply styles directly to an HTML element using the style attribute. It allows you to specify CSS properties and values directly within the HTML tag, rather than in a separate CSS file or in a <style> block. it has more preference than other styles */
+
+body{
+    background-color: rgb(11, 184, 227);
+}
+
+/* *{} */
+
+    /* The universal selector (*) targets all elements on the page. It is used to apply styles to every element, regardless of its type or class. */
+
+#bold{/* The ID selector (#) targets a specific element with a unique ID. In this case, it targets the element with the ID "bold". */
+    color: rgb(164, 236, 19);
+}
+
+.font{/* The class selector (.) targets elements with a specific class attribute. In this case, it targets all elements with the class "font". */
+    color: rgb(217, 13, 187);
+}
