@@ -1,23 +1,16 @@
-#box{
-    background-color: rgb(37, 8, 231);
-    color: white;
+h1{
+    text-transform: capitalize;
+    text-align: center;
 }
 
-.heading{
-    color: red;
-
+*{
+    font-family: Times New Roman;
 }
 
-button {
-    background-color: green;
-}
-
-p{
-    text-align: left;
-    text-decoration: underline;
-    font-weight:bolder;
-    font-family: Arial;
+#outer{
     font-size: 25px;
-    line-height: 50px;
-    text-transform: lowercase;
+}
+
+#inner{
+    font-size: 10px;
 }
