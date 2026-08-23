@@ -1,16 +1,17 @@
-h1{
-    text-transform: capitalize;
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
     text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 20px;
+    margin-top: 100px;
+    /* border-radius: 50%; */
+    /* border-radius: 50% makes the div a circle when height and width are same*/
 }
 
-*{
-    font-family: Times New Roman;
-}
+/*padding is the space between the content and the border of an element. It can be set using padding-top, padding-right, padding-bottom, and padding-left properties.*/
 
-#outer{
-    font-size: 25px;
-}
-
-#inner{
-    font-size: 10px;
-}
+/*margin is the space outside the border of an element. It can be set using margin-top, margin-right, margin-bottom, and margin-left properties.*/
