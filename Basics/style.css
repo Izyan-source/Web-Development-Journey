@@ -23,3 +23,22 @@ a{
     margin-right: 250px;
     text-decoration: none;
 }
+
+.box{
+    height:100px;
+    width: 100px;
+    color:black;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#content{
+    height:720px;
+}
+ 
+
+#footer{
+    color: white;
+    background-color: #0f1111;
+    text-align: center;
+}
