@@ -29,3 +29,20 @@ li{
     padding: 20px;
     font-size: 20px;
 }
+
+.outer{
+    height:300px;
+    width: 300px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(12,12,12);
+}
